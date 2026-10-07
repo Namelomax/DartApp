@@ -1,0 +1,6 @@
+name: home_cloud_server
+description: Сервер домашнего облака для фото и видео.
+publish_to: 'none'
+
+environment:
+  sdk: ^3.13.0
